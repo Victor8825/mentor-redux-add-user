@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mentor-redux-add-user/static/css/main.7acaea2f.css",
+    "main.js": "/mentor-redux-add-user/static/js/main.33e29bd4.js",
+    "index.html": "/mentor-redux-add-user/index.html",
+    "main.7acaea2f.css.map": "/mentor-redux-add-user/static/css/main.7acaea2f.css.map",
+    "main.33e29bd4.js.map": "/mentor-redux-add-user/static/js/main.33e29bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.33e29bd4.js"
+  ]
+}
